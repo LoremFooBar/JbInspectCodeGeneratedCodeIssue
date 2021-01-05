@@ -1,0 +1,2 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/GeneratedFilesAndFolders/=55E2E9C4_002D3B90_002D44D8_002DAAEF_002DAD889768A188_002Fd_003AMigrations/@EntryIndexedValue">55E2E9C4-3B90-44D8-AAEF-AD889768A188/d:Migrations</s:String></wpf:ResourceDictionary>
